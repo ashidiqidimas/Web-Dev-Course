@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+}
+
+hr {
+    border-color: darkred;
+}
+
+h1, h3 {
+    color: darkr;
+}
